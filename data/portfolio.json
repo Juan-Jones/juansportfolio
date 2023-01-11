@@ -26,45 +26,50 @@
   "projects": [
     {
       "id": "1",
-      "title": "Online Marketing",
-      "description": "Information about us. This is some more stuff",
-      "skills": "Js, HTML5, CSS",
-      "imageSrc": "images/marketingdesktop.jpg",
-      "url": "http://chetanverma.com/"
+      "title": "Digital Marketing",
+      "description": "I specialize in helping individuals and organizations achive marketing goals ",
+      "skills": "Online Marketing, PPC, CSS, SEO, SEM,",
+      "url": "http://chetanverma.com/",
+      "imageSrc": "images/marketingdesktop.jpg"
     },
     {
       "id": "2",
       "title": "Web Development",
       "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "skills": "Js, HTML5, CSS, React",
+      "imageSrc": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "3",
-      "title": "Contact",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Strategic Marketing",
+      "description": "Marketing Strategy, Marketing Plans, Market Research",
+      "skills": "Marketing Plan Development, Marketing Strategy Development, PEST Analysis, SWOT Analysis, Market Segmentation,",
+      "imageSrc": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "4",
-      "title": "Social Media Marketing",
-      "description": "Marketing",
+      "title": "Social Engine Marketing",
+      "description": "Implement and Manage Organic Search Campaigns - Analyze and Optimize Marketing Campaigns",
+      "skills": "PPC, Keyword Research, Link-Building, Technical SEO, On Page SEO,",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "5",
       "title": "Search Engine Optimization",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "description": "Search Engine Optimization or SEO is a process that",
+      "skills": "Technical & Programming Skills, Analytics Skills, Data Skills, Critical Thinking, Motivation & Adaptability,",
+      "imageSrc": "https://images.unsplash.com/photo-1637606346315-d23ed32a6cfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "6",
-      "title": "Marketing Strategy",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Social Media Marketing",
+      "description": "Social Media Marketing also known as SMM ",
+      "skills": "Excellent Communication, Creativity, Writing Ability, Content Curation, Project Management, Aptitude to Learn,",
+      "imageSrc": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
       "url": "https://app.netlify.com/sites/poetic-gecko-8f8155"
     }
   ],

@@ -6,15 +6,15 @@ export default function handler(req, res) {
   const postsfolder = join(process.cwd(), `/_posts/`);
   if (process.env.NODE_ENV === "development") {
     if (req.method === "POST") {
-      const { date, title, tagline, preview, image } = req.body.variables;
+      const { date, title, preview, image, tagline } = req.body.variables;
       fs.writeFile(
         postsfolder + req.body.slug + ".md",
         matter.stringify(req.body.content, {
           date,
           title,
-          tagline,
           preview,
           image,
+          tagline,
         }),
         "utf-8",
         (err) => console.log(err)
