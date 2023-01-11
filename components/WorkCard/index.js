@@ -1,6 +1,6 @@
 import React from "react";
 
-const WorkCard = ({ img, name, description, onClick }) => {
+const WorkCard = ({ img, name, skills, description, onClick }) => {
   return (
     <div
       className="overflow-hidden rounded-lg p-2 laptop:p-4 first:ml-0 link"
@@ -16,6 +16,7 @@ const WorkCard = ({ img, name, description, onClick }) => {
           src={img}
         ></img>
       </div>
+      {skills ? <p>{skills}</p> : null}
       <h1 className="mt-5 text-3xl font-medium">
         {name ? name : "Project Name"}
       </h1>

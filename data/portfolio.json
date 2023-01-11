@@ -27,8 +27,9 @@
     {
       "id": "1",
       "title": "Online Marketing",
-      "description": "Information about us.",
-      "imageSrc": "https://unsplash.com/photos/gcsNOsPEXfs",
+      "description": "Information about us. This is some more stuff",
+      "skills": "Js, HTML5, CSS",
+      "imageSrc": "images/marketingdesktop.jpg",
       "url": "http://chetanverma.com/"
     },
     {
