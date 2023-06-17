@@ -1,9 +1,9 @@
 ---
 date: '2022-07-15T11:50:54.000Z'
-title: Juans NFL Blog
-tagline: Check Out Our NFL Blog!
+title: Earn Money Online
+tagline: Side Hustles, Work From Home Jobs & Ebiz Ideas!
 preview: >-
-  Check out our NFL blog. Get the latest updates on players, news, stats and
+  Check out our blog. Get the latest updates on players, news, stats and
   more.
 image: 'https://unsplash.com/photos/KgYazRO3l8A'
 ---
